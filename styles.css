@@ -1,0 +1,77 @@
+.card {
+  width: 330px;
+  margin: auto;
+  box-sizing: border-box;
+  border: 1px dashed #ff7f50;
+  border-radius: 8px;
+  padding: 6px;
+  background-image: url(https://data.whicdn.com/images/23866292/original.jpg);
+  background-size: 750px;
+  opacity: 0.9;
+  filter: alpha(opacity=40);
+}
+
+.photo {
+  margin: auto;
+  display: block;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+  position: relative;
+  border-radius: 18px;
+}
+
+.item {
+  font-weight: bold;
+}
+
+.list {
+  list-style-type: none;
+  margin: auto;
+  list-style-position: outside;
+}
+
+.introduction {
+  font-style: italic;
+}
+
+body {
+  margin: auto;
+  border: 8px double #ff7f50;
+  width: 330px;
+  box-shadow: 6px 8px 5px #888;
+  padding: 3px;
+  background-color: #e4c987;
+}
+
+.section {
+  box-sizing: border-box;
+  border: 2px solid #ff7f50;
+  margin: auto;
+  border-radius: 10px;
+  border-spacing: 1px;
+  width: 300px;
+  padding: 6px;
+  background-color: #f4d5a5;
+  opacity: 0.9;
+  position: relative;
+  font-family: "Times";
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  box-sizing: border-box;
+  padding: 10px;
+  font-family: "Palatino Linotype";
+  font-size: 40px;
+  background-color: #ff7f50;
+  opacity: 0.9;
+}
+
+html {
+  margin: 50px;
+}
