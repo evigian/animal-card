@@ -70,6 +70,7 @@ ul {
   font-size: 40px;
   background-color: #ff7f50;
   opacity: 0.9;
+  filter: alpha(opacity=40);
 }
 
 html {
